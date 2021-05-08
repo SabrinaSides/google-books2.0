@@ -1,0 +1,9 @@
+.filterBar {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  background-color: lightgray;
+  font-size: 22px;
+  padding: 5px;
+}
